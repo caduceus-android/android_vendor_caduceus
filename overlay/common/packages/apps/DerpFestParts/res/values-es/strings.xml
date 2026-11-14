@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageparts_title">Ajustes de CaduceusOS</string>
+    <string name="anonymous_statistics_title">Estadísticas CaduceusOS</string>
+    <string name="anonymous_statistics_summary">Ayuda a mejorar CaduceusOS mediante el envío anónimo de estadísticas</string>
+    <string name="anonymous_statistics_warning">Al permitir la recopilación y el envío de estadísticas de CaduceusOS, autorizas el envío de información de carácter no personal a los desarrolladores de CaduceusOS para hacer un seguimiento de las instalaciones que realices en los dispositivos. La información enviada incluye un identificador único que no compromete tu privacidad ni tu información personal. Esta información es enviada durante el arranque.\n\nPara ver un ejemplo de la información enviada, toca en Previsualizar datos.</string>
+    <string name="trust_feature_security_patches_explain">Google publica mensualmente parches de seguridad en cooperación con los proveedores de SoC para corregir fallos que podrían ser aprovechados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños permanentes a tu dispositivo. Los parches disponibles de Google se aplican cada mes en todos los dispositivos soportados, pero los parches al código propio solo pueden ser aplicados por el fabricante del dispositivo. Para mantener tu dispositivo seguro, asegúrate de que la compilación de CaduceusOS esté siempre actualizada y, si aplica, asegúrate de que la imagen de tu proveedor está actualizada a la última recomendada por CaduceusOS.</string>
+</resources>

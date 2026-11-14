@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="anonymous_statistics_title">CaduceusOS статистика</string>
+    <string name="anonymous_statistics_summary">Помогнете за подобрувањето на CaduceusOS со одбирање на анонимно известување за статистика</string>
+    <string name="anonymous_statistics_warning">Откажувањето во CaduceusOS статистика ќе им овозможи на не-лични податоци да бидат доставени до програмерите на CaduceusOS за да ги следат уникатните инсталации низ уредите. Доставените информации вклучуваат уникатен идентификатор, што не ја загрозува вашата приватност или лични податоци. Податоците се поднесуваат за време на секое подигање.\n\nЗа пример на податоците што се доставуваат, допрете на преглед на податоци.</string>
+</resources>

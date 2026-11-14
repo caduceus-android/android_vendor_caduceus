@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Anagraw n CaduceusOS</string>
+    <string name="lineage_api_level">Aswir n CaduceusOS API</string>
+    <string name="lineage_updates">Lqem n CaduceusOS</string>
+    <string name="lineage_version">Lqem n CaduceusOS</string>
+</resources>

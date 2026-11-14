@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="derpfest_title" translatable="false">CaduceusOS</string>
+    <string name="derpfest_version">CaduceusOS 版本</string>
+    <string name="derp_official_summary">您目前正在執行官方版本的 CaduceusOS。</string>
+    <string name="derpfest_customizations_title">CaduceusOS 自訂設定</string>
+    <string name="derpfest_suggestion_welcome_title">歡迎使用 CaduceusOS</string>
+    <string name="derpfest_suggestion_customizations_title">CaduceusOS 自訂設定</string>
+</resources>

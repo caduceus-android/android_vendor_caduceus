@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">מערכת CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">אפשר ליישומים גישה לתשתית החומרה של CaduceusOS.</string>
+    <string name="permdesc_writeSettings">מאפשר ליישום לשנות את הגדרות מערכת CaduceusOS.</string>
+    <string name="lineage_api_level">רמת ה־API של CaduceusOS</string>
+    <string name="lineage_updates">עדכוני CaduceusOS</string>
+    <string name="lineage_version">גרסת CaduceusOS</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS 系統</string>
+    <string name="lineage_api_level">CaduceusOS API 等級</string>
+    <string name="lineage_updates">CaduceusOS 更新</string>
+    <string name="lineage_version">CaduceusOS 版本</string>
+</resources>

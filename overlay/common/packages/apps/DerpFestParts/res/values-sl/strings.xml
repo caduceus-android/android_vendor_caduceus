@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageparts_title">Nastavitve CaduceusOS</string>
+    <string name="anonymous_statistics_title">Statistika CaduceusOS</string>
+    <string name="anonymous_statistics_summary">Pomagajte izboljšati CaduceusOS tako, da izberete pošiljanje anonimne statistike</string>
+    <string name="anonymous_statistics_warning">Izbira statistike CaduceusOS bo dovolila pošiljanje neosebnih podatkov
+        razvijalcem CaduceusOS-a, da lahko sledijo edinstvenim namestitvam v napravah. Poslani podatki vključujejo edinstven določilnik,
+        ki ne ogroža vaše zasebnosti in osebnih podatkov. Podatki so poslani ob vsakem zagonu.\n\nZa primer poslanih podatkov tapnite Predogled podatkov.</string>
+    <string name="trust_feature_security_patches_explain">Varnostni popravki so izdani mesečno s strani Googla v sodelovanju s proizvajalci SoC-ov, da naslovijo pomanjkljivosti, ki jih lahko zlonamerne aplikacije izrabijo za obvoz varnostnih omejitev in lahko povzročijo trajne poškodbe vaše naprave. Popravki s strani Googla so na vseh podprtih napravah uveljavljeni vsak mesec, vendar so lahko popravki lastniške kode uveljavljeni samo s strani proizvajalca naprave. Da ohranite vašo napravo varno, poskrbite, da je vaša izgradnja CaduceusOS-a vedno posodobljena in (v kolikor je na voljo) odtis dobavitelja posodobobljen na zadnjo različico priporočeno s strani CaduceusOS-a.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS 시스템</string>
+    <string name="permdesc_useHardwareFramework">앱이 CaduceusOS 하드웨어 프레임워크에 접근할 수 있도록 허용합니다.</string>
+    <string name="permlab_writeSettings">CaduceusOS 시스템 설정 변경</string>
+    <string name="permdesc_writeSettings">앱이 CaduceusOS 시스템 설정을 변경할 수 있도록 허용합니다.</string>
+    <string name="permlab_writeSecureSettings">CaduceusOS 보안 시스템 설정 변경</string>
+    <string name="permdesc_writeSecureSettings">앱이 CaduceusOS 보안 시스템 설정을 변경할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
+    <string name="lineage_api_level">CaduceusOS API 수준</string>
+    <string name="lineage_updates">CaduceusOS 업데이트</string>
+    <string name="lineage_version">CaduceusOS 버전</string>
+</resources>

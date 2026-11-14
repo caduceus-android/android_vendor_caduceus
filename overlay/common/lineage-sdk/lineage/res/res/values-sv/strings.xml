@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS-systemet</string>
+    <string name="permdesc_useHardwareFramework">Ger en app åtkomst till CaduceusOS hårdvaruramverk.</string>
+    <string name="permlab_writeSettings">ändra CaduceusOSs systeminställningar</string>
+    <string name="permdesc_writeSettings">Tillåter en app att ändra CaduceusOSs systeminställningar.</string>
+    <string name="permlab_writeSecureSettings">ändra skyddade CaduceusOS-inställningar</string>
+    <string name="permdesc_writeSecureSettings">Tillåter en app att ändra skyddade CaduceusOS-inställningar. Ska inte användas av vanliga appar.</string>
+    <string name="lineage_api_level">API-nivå för CaduceusOS</string>
+    <string name="lineage_updates">CaduceusOS-uppdateringar</string>
+    <string name="lineage_version">CaduceusOS-version</string>
+</resources>

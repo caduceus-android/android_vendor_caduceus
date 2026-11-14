@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageparts_title">הגדרות CaduceusOS</string>
+    <string name="anonymous_statistics_title">סטטיסטיקות CaduceusOS</string>
+    <string name="anonymous_statistics_summary">עזור לשפר את CaduceusOS על ידי שליחת דיווחי סטטיסטיקות אנונימית</string>
+    <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקות CaduceusOS תאפשר שליחת מידע לא אישי למפתחי CaduceusOS על מנת לאתר את מספר ההתקנות היחודיות לכל סוג מכשיר. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או בנתונים האישיים שלך. המידע נשלח בכל אתחול המכשיר.\n\nכדי לצפות בדוגמה של מידע שנשלח, יש להקיש על הצגת נתונים מקדימה.</string>
+    <string name="trust_feature_security_patches_explain">עדכוני אבטחה מתפרסמים מדי חודש על ידי Google בשיתוף פעולה עם יצרני מערכות על שבב על מנת לפתור פגמים שיכולים להיות מנוצלים על ידי יישומים זדוניים במטרה לעקוף מגבלות אבטחה ולגרום נזק קבוע למכשירך. העדכונים המוצעים על ידי Google מוחלים על כל ההתקנים התומכים, אך עדכונים לקוד קנייני ניתנים להשמה אך ורק על ידי יצרן המכשיר שלך. על מנת לשמור על אבטחת מכשירך, יש לוודא כי גרסת CaduceusOS שברשותך תמיד עדכנית, וכמו כן (במידה ונדרש)  יש לוודא כי תמונת המערכת של היצרן מעודכנת לגרסה האחרונה המומלצת על די CaduceusOS.</string>
+</resources>

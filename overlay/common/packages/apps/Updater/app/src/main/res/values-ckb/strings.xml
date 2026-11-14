@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="list_build_version">CaduceusOS %1$s</string>
+    <string name="list_build_version_date">CaduceusOS %1$s - %2$s</string>
+</resources>

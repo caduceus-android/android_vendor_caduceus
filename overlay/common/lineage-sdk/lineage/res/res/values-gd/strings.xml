@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Siostam CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">Leigidh seo le aplacaid frèam-obrach bathair-chruaidh CaduceusOS a chleachdadh.</string>
+    <string name="permlab_writeSettings">roghainnean siostam CaduceusOS atharrachadh</string>
+    <string name="permdesc_writeSettings">Leigidh seo le aplacaid roghainnean siostam CaduceusOS atharrachadh.</string>
+    <string name="permlab_writeSecureSettings">roghainnean siostam CaduceusOS tèarainte atharrachadh</string>
+    <string name="permdesc_writeSecureSettings">Leigidh seo le aplacaid roghainnean siostam CaduceusOS tèarainte atharrachadh. Na cleachd seo le aplacaidean àbhaisteach.</string>
+    <string name="lineage_api_level">Leibheil API CaduceusOS</string>
+    <string name="lineage_updates">Ùrachaidhean air CaduceusOS</string>
+    <string name="lineage_version">An tionndadh de CaduceusOS</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Hệ thống CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">Cho phép ứng dụng truy cập khung làm việc phần cứng CaduceusOS.</string>
+    <string name="permlab_writeSettings">sửa đổi cài đặt hệ thống CaduceusOS</string>
+    <string name="permdesc_writeSettings">Cho phép một ứng dụng chỉnh sửa cài đặt hệ thống CaduceusOS.</string>
+    <string name="permlab_writeSecureSettings">sửa đổi cài đặt hệ thống bảo mật CaduceusOS</string>
+    <string name="permdesc_writeSecureSettings">Cho phép một ứng dụng sửa đổi cài đặt hệ thống bảo mật của CaduceusOS. Không cho các ứng dụng thông thường sử dụng.</string>
+    <string name="lineage_api_level">Cấp độ API CaduceusOS</string>
+    <string name="lineage_updates">Cập nhật CaduceusOS</string>
+    <string name="lineage_version">Phiên bản CaduceusOS</string>
+</resources>

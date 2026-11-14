@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">System CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">Mae\'n caniatáu i ap gyrchu fframwaith caledwedd CaduceusOS.</string>
+    <string name="permlab_writeSettings">addasu gosodiadau system CaduceusOS</string>
+    <string name="permdesc_writeSettings">Mae\'n caniatáu i ap addasu gosodiadau system CaduceusOS.</string>
+    <string name="permlab_writeSecureSettings">addasu gosodiadau system ddiogel CaduceusOS</string>
+    <string name="permdesc_writeSecureSettings">Mae\'n caniatáu i ap addasu gosodiadau system ddiogel CaduceusOS. Dim i\'w ddefnyddio gan apiau arferol.</string>
+    <string name="lineage_api_level">Lefel API CaduceusOS</string>
+    <string name="lineage_updates">Diweddariadau CaduceusOS</string>
+    <string name="lineage_version">Fersiwn CaduceusOS</string>
+</resources>

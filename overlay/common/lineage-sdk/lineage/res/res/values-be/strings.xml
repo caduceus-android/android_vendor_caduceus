@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Сістэма CaduceusOS</string>
+    <string name="permlab_writeSettings">змяніць налады сістэмы CaduceusOS</string>
+    <string name="lineage_updates">Абнаўленні CaduceusOS</string>
+    <string name="lineage_version">Версія CaduceusOS</string>
+</resources>

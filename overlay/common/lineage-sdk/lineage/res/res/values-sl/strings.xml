@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Sistem CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">Dovoli aplikaciji dostop do strojnega ogrodja CaduceusOS.</string>
+    <string name="permlab_writeSettings">spreminjanje sistemskih nastavitev CaduceusOS</string>
+    <string name="permdesc_writeSettings">Dovoli aplikaciji spreminjanje sistemskih nastavitev CaduceusOS.</string>
+    <string name="permlab_writeSecureSettings">spreminjanje varnih sistemskih nastavitev CaduceusOS</string>
+    <string name="permdesc_writeSecureSettings">Dovoli aplikaciji spreminjanje varnih sistemskih nastavitev CaduceusOS. Običajne aplikacije tega ne uporabljajo.</string>
+    <string name="lineage_api_level">Raven CaduceusOS API-ja</string>
+    <string name="lineage_updates">Posodobitve CaduceusOS</string>
+    <string name="lineage_version">Različica CaduceusOS</string>
+</resources>

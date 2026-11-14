@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="derpfest_version">CaduceusOS-Version</string>
+    <string name="derp_official_summary">Du verwendest derzeit eine offizielle Build von CaduceusOS.</string>
+    <string name="derpfest_suggestion_welcome_title">Willkommen bei CaduceusOS</string>
+    <string name="derpfest_suggestion_customizations_title">CaduceusOS-Einstellungen</string>
+    <string name="derpfest_customizations_title">CaduceusOS-Einstellungen</string>
+</resources>

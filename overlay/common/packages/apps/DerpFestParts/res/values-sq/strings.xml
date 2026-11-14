@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageparts_title">Cilësimet e CaduceusOS</string>
+    <string name="anonymous_statistics_title">Statistikat e CaduceusOS</string>
+    <string name="anonymous_statistics_summary">Ndihmo në përmirësimin e CaduceusOS duke lejuar raportimin anonim të statistikave</string>
+    <string name="anonymous_statistics_warning">Aktivizimi i Statistikave të CaduceusOS do të lejojë dërgimin e të dhënave jo-personale tek        zhvilluesit e CaduceusOS që të ndjekin instalime unike në pajisje të ndryshme. Informacioni i dërguar përmban një identifikues unik,        që nuk kompromenton privatësinë apo të dhënat e tua personale. Të dhënat dërgohen gjatë rindezjes së pajisjes.\n\nPër të parë një shëmbull të të dhënave që dërgohen, shtypni në Inspekto të Dhënat.</string>
+    <string name="trust_feature_security_patches_explain">korrigjimet e sigurisë nxiren çdo muaj nga Google në bashkëpunim me prodhuesit e SoC për të trajtuar gabimet nga të cilat mund të shfrytëzohen nga programet keqadashëse për të shmangur kufizimet e sigurisë dhe shkaktojnë probleme të përhershme në paisjen tuaj. korrigjimet e nxjera nga Google zbatohen çdo muaj në të gjitha paisjet. Por korrigjimet tek kodet e patentuara mund të kryehen vetëm nga prodhuesi i telefonit tuaj. Për të qëndruar i sigurtë, sigurohuni që sistemi juaj CaduceusOS është gjithmonë i përditësuar, dhe (nesë është e vlefshme) sigurohu që dhe imazhet e prodhuesit janë gjithmonë më të fundit dhe të sygjeruara nga CaduceusOS.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">سیستمی CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">ڕێگە بە بەرنامە دەدات دەستی بگات بە چوارچێوەی ڕەقەکاڵای CaduceusOS.</string>
+    <string name="permlab_writeSettings">دەستکاریکردنی ڕێکخستنەکانی سیستمی CaduceusOS</string>
+    <string name="permdesc_writeSettings">ڕێگە بە بەرنامە دەدات ڕێکخستنەکانی سیستمی CaduceusOS دەستکاری بکات.</string>
+    <string name="permlab_writeSecureSettings">دەستکاریکردنی ڕێکخستنە پارێزراوەکانی سیستمی CaduceusOS</string>
+    <string name="permdesc_writeSecureSettings">ڕێگە بە بەرنامە دەدات ڕێکخستنە پارێزراوەکانی سیستمی CaduceusOS دەستکاری بکات. بۆ بەرنامە ئاساییەکان نییە.</string>
+    <string name="lineage_api_level">ئاستی CaduceusOS API</string>
+    <string name="lineage_updates">نوێکارییەکانی CaduceusOS</string>
+    <string name="lineage_version">وەشانی CaduceusOS</string>
+</resources>

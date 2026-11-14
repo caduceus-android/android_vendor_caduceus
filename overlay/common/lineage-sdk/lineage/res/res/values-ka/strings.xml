@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS სისტემა</string>
+    <string name="permdesc_useHardwareFramework">პროგრამისთვის ნების დართვა CaduceusOS-ის აპარატურულ გარსთან წვდომისთვის.</string>
+    <string name="permlab_writeSettings">CaduceusOS-სისტემის დაცული პარამეტრების შეცვლა</string>
+    <string name="permdesc_writeSettings">პროგრამისთვის ნების დართვა, შეცვალოს CaduceusOS-სისტემის პარამეტრები.</string>
+    <string name="permlab_writeSecureSettings">CaduceusOS-სისტემის დაცული სისტემური პარამეტრების შეცვლა</string>
+    <string name="permdesc_writeSecureSettings">ნებართვა, რომ აპი შეძლებს შეცვალოს CaduceusOS-სისტემის დაცული პარამეტრები. არაა განკუთვნილი ჩვეულებრივი აპებისთვის.</string>
+    <string name="lineage_api_level">CaduceusOS-ის API-ს დონე</string>
+    <string name="lineage_updates">CaduceusOS-ის განახლებები</string>
+    <string name="lineage_version">CaduceusOS-ის ვერსია</string>
+</resources>

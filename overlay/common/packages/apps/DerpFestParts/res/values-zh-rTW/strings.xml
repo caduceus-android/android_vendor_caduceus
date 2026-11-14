@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageparts_title">CaduceusOS 設定</string>
+    <string name="privacy_settings_category" translatable="false">CaduceusOS</string>
+    <string name="anonymous_statistics_title">CaduceusOS 統計資料</string>
+    <string name="anonymous_statistics_summary">啟用匿名統計資料回報，協助改善 CaduceusOS</string>
+    <string name="anonymous_statistics_warning">啟用 CaduceusOS 統計資料後，將允許非個人資料提交給 CaduceusOS 開發者，以追蹤跨裝置的唯一安裝數。提交的資訊包含一個唯一識別碼，這不會損害您的隱私或個人資料。資料會在每次開機時提交。\n\n如需查看提交資料的範例，請點擊「預覽資料」。</string>
+    <string name="egg_title" translatable="false">CaduceusOS Easter Egg</string>
+    <string name="trust_feature_security_patches_explain">安全性修補程式由 Google 與 SoC 廠商每月定期釋出，以解決惡意應用程式可能利用的漏洞，避免其繞過安全限制並對您的裝置造成永久性損壞。Google 提供的修補程式會套用於所有受支援的裝置，但專有程式碼的修補程式僅能由您的裝置製造商套用。為了確保您的裝置安全，請確保您的 CaduceusOS 版本始終為最新，並（若適用）確保您的廠商映像檔已更新為 CaduceusOS 建議的最新版本。</string>
+</resources>

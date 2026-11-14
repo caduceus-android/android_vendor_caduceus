@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="status_bar_logo_style_derp">CaduceusOS (Standard)</string>
+    <string name="status_bar_logo_style_derp_alt">CaduceusOS-Alternative</string>
+</resources>

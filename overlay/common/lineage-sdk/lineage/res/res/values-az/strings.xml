@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS Sistemi</string>
+    <string name="permdesc_useHardwareFramework">Tətbiqin CaduceusOS donanım çərçivəsinə erişməsinə icazə verir.</string>
+    <string name="permlab_writeSettings">CaduceusOS sistem ayarlarını dəyişdir</string>
+    <string name="permdesc_writeSettings">Tətbiqin CaduceusOS sistem ayarlarını dəyişdirməsinə icazə verir.</string>
+    <string name="permlab_writeSecureSettings">CaduceusOS güvənli sistem ayarlarını dəyişdir</string>
+    <string name="permdesc_writeSecureSettings">Tətbiqin CaduceusOS güvənli sistem ayarlarını dəyişdirməsinə icazə verir. Normal tətbiqlər tərəfindən istifadə olunmur.</string>
+    <string name="lineage_api_level">CaduceusOS API səviyyəsi</string>
+    <string name="lineage_updates">CaduceusOS güncəlləmələri</string>
+    <string name="lineage_version">CaduceusOS versiyası</string>
+</resources>

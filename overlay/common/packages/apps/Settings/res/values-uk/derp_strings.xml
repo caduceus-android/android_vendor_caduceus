@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="derpfest_customizations_title">Кастомізація CaduceusOS</string>
+    <string name="derpfest_version">Версія CaduceusOS</string>
+    <string name="derp_official_summary">Наразі ви використовуєте офіційний білд CaduceusOS.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">CaduceusOS سىستېمىسى</string>
+    <string name="permdesc_useHardwareFramework">ئەپنىڭ CaduceusOS قاتتىق دېتال قۇرۇلمىسىنى زىيارەت قىلىشقا يو قويىدۇ.</string>
+    <string name="permlab_writeSettings">CaduceusOS سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
+    <string name="permdesc_writeSettings">ئەپنىڭ CaduceusOS سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ.</string>
+    <string name="permlab_writeSecureSettings">CaduceusOS بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
+    <string name="permdesc_writeSecureSettings">ئەپنىڭ CaduceusOS بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ. ئادەتتىكى ئەپلەرنىڭ بۇنداق ھوقۇقى بولمايدۇ.</string>
+    <string name="lineage_api_level">CaduceusOS API دەرىجىسى</string>
+    <string name="lineage_updates">CaduceusOS يېڭىلاش</string>
+    <string name="lineage_version">CaduceusOS نەشرى</string>
+</resources>

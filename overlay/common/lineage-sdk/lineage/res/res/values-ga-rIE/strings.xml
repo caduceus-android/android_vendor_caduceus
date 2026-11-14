@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="lineageos_system_label">Córas CaduceusOS</string>
+    <string name="permdesc_useHardwareFramework">Ligeann sé d’app rochtain a fháil ar chreat crua-earraí CaduceusOS.</string>
+    <string name="permlab_writeSettings">athraigh socruithe an chórais CaduceusOS</string>
+    <string name="permdesc_writeSettings">Ligeann sé d’aip socruithe córais CaduceusOS a mhodhnú.</string>
+    <string name="permlab_writeSecureSettings">athraigh socruithe córas slán CaduceusOS</string>
+    <string name="permdesc_writeSecureSettings">Ligeann sé d’aip socruithe córais slán CaduceusOS a mhodhnú. Ní le húsáid ag gnáth-apps.</string>
+    <string name="lineage_api_level">Leibhéal API CaduceusOS</string>
+    <string name="lineage_updates">Nuashonruithe do CaduceusOS</string>
+    <string name="lineage_version">CaduceusOS leagan</string>
+</resources>

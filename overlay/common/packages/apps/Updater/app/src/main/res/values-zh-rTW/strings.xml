@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Caduceus
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="toast_forced_update_recovery">無法停用此裝置上的 CaduceusOS Recovery 更新。</string>
+    <string name="header_title_text">CaduceusOS\n%1$s</string>
+    <string name="list_build_version">CaduceusOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
+    <string name="list_build_version_date">CaduceusOS <xliff:g id="version" example="14.1">%1$s</xliff:g>-<xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="menu_view_downloads">查看 <xliff:g id="brand_name" example="CaduceusOS">%1$s</xliff:g> 下載頁面</string>
+    <string name="info_dialog_message">CaduceusOS 的更新為完整的安裝套件。您可以在跳過中間一些更新的情況下，直接安裝最新的版本。</string>
+</resources>
